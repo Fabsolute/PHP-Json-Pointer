@@ -1,0 +1,23 @@
+{
+  "name": "fabs/json-pointer",
+  "type": "library",
+  "description": "JSON Pointer",
+  "keywords": [
+    "json pointer",
+    "pointer",
+    "rfc6901"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ahmet Turk",
+      "email": "ahmetturk93@gmail.com",
+      "homepage": "https://github.com/fabsolute"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Fabs\\Json": "src"
+    }
+  }
+}
